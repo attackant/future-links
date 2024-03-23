@@ -5,7 +5,7 @@
 
 ## What is a Future Link?
 
-A "Future Link" is a concept that introduces a hyperlink or clickable UI element (the Future Link) that leads to content or information that has not yet been created (the Future Content Placeholder), offering a mechanism for users a to signal interest for future content, prioritize sand directly or indirectly support content creation, and facilitate user engagement with the yet-to-be-created content (Future Content). The idea is to provide a placeholder for future content, allowing users to express their interest through various Interest Expression Mechanisms such as voting, pledging, or direct payment. Additionlly, even without a direct mechanism to vote for the Future Content, the system can record analytic data and log the clicking of the link as interest.
+A "Future Link" is a concept that introduces a hyperlink or clickable UI element (the Future Link) that leads to content or information that has not yet been created (the Future Content Placeholder), offering a mechanism for users a to signal interest for future content, prioritize and directly or indirectly support content creation, and facilitate user engagement with the yet-to-be-created content (Future Content). The idea is to provide a placeholder for future content, allowing users to express their interest through various Interest Expression Mechanisms such as voting, pledging, or direct payment. Additionlly, even without a direct mechanism to vote for the Future Content, the system can record analytic data and log the clicking of the link as interest.
 
 ## Core Components of Future Links
 
@@ -37,6 +37,7 @@ The primary purposes of "Future Links" are:
 1. **Gauging interest:** By tracking user interactions with Future Links through Interest Expression Mechanisms, content creators can assess the demand for specific topics or content ideas.
 2. **Prioritizing content creation:** Based on the interest shown by users and aggregated, content creators can prioritize their efforts and focus on creating the most sought-after content or set target pledge/interrest amounts that need to be met in order to begin content production.
 3. **Facilitating user engagement:** Future Links allow users to actively participate in shaping the content they want to see, fostering a sense of community and collaboration between creators and their audience.
+4. **Directing editorial and production:** Future Links can help content creators save time and resources by focusing on content that is more likely to be well-received by their audience.
 
 ## Use Cases
 
