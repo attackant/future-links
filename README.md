@@ -1,7 +1,6 @@
 # Future Links 
 
-#### (An open source concept to prevent software patenting.)
-
+#### Future Links are hyperlinks to content that doesn't exist yet that provide a way for users to indicate interest, indicating that they want it to be created. I wanted to document the idea and open source it, so that if someone else came up with it it couldn't be copyrighted or patented.
 
 ## What is a Future Link?
 
